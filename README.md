@@ -16,3 +16,7 @@
 ## Intermediate Task 2 - Prediction using Decision Tree Algorithm
 ### Create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.  
 ### Dataset: https://bit.ly/3kXTdox
+
+## Advanced Task 2 - Next Word Prediction
+### Using Tensorflow and Keras library train a RNN, to predict the next word. 
+### Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
